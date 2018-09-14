@@ -1,0 +1,164 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1536527530620">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/timetracking/farming/FarmingWorld.java" timestamp="1536325254862">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1536764731948">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" timestamp="1536346013081">
+        <mark key="'" line="221" column="4" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="^" line="220" column="8" />
+        <mark key="." line="221" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoConfig.java" timestamp="1536342192142">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="23" />
+        <mark key="." line="37" column="23" />
+        <mark key="^" line="36" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="221" column="4" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="148" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="82" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="83" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="314" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="319" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="324" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="329" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="334" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="339" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="353" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="355" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="361" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="378" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="380" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="386" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="427" column="95" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="429" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="433" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="435" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="441" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="456" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="458" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="464" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="80" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="81" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/idlenotifier/IdleNotifierPlugin.java" />
+      <jump line="122" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
+      <jump line="130" column="29" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Filename</text>
+      </register>
+      <register name="/" type="4">
+        <text>ogg</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0YXJ0KGFzKTsgICAgICAgICAgICAKCQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0b3AoYXMpOyAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJfQoJCQlBdWRpb1BsYXllci5wbGF5ZXIuc3RhcnQoYXMpOyAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJSW5wdXRTdHJlYW0gaW4gPSBuZXcgRmlsZUlucHV0U3RyZWFtKCIvdXNyL2hvbWUvd2VkbmVzZGF5L2JlZXAud2F2Iik7CgkJCUF1ZGlvU3RyZWFtIGFzID0gbmV3IEF1ZGlvU3RyZWFtKGluKTsgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlIGFuIEF1ZGlvU3RyZWFtIG9iamVjdCBmcm9tIHRoZSBpbnB1dCBzdHJlYW0uCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gVXNlIHRoZSBzdGF0aWMgY2xhc3MgbWVtYmVyICJwbGF5ZXIiIGZyb20gY2xhc3MgQXVkaW9QbGF5ZXIgdG8gcGxheQovLyBjbGlwLgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ogg</last-search>
+      <last-offset />
+      <last-pattern>ogg</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Bell</entry>
+        <entry>BELL</entry>
+        <entry>notify</entry>
+        <entry>bell</entry>
+        <entry>ogg</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionlist</entry>
+        <entry>list</entry>
+        <entry>help</entry>
+        <entry>binds</entry>
+        <entry>build</entry>
+        <entry>b</entry>
+        <entry>commands</entry>
+        <entry>make</entry>
+        <entry>test</entry>
+        <entry>run</entry>
+        <entry>vi</entry>
+        <entry>viminfo</entry>
+        <entry>nu</entry>
+        <entry>number</entry>
+        <entry>set vi</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

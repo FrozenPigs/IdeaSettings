@@ -1,7 +1,0 @@
-<application>
-  <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
-    <option name="browserPath" value="/usr/local/bin/qutebrowser" />
-    <option name="useDefaultBrowser" value="false" />
-  </component>
-</application>

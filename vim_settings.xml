@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" timestamp="1538051116937">
+        <mark key="'" line="340" column="35" />
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536968507458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,6 +65,19 @@
       <jump line="122" column="16" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
       <jump line="130" column="29" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
       <jump line="125" column="0" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/Notifier.java" />
+      <jump line="25" column="21" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="62" column="38" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="232" column="15" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="238" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="249" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="251" column="43" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="280" column="15" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="284" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="299" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="309" column="20" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="333" column="15" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="336" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="340" column="35" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -68,31 +87,31 @@
         <text>Filename</text>
       </register>
       <register name="/" type="4">
-        <text>ogg</text>
+        <text>option</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0YXJ0KGFzKTsgICAgICAgICAgICAKCQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0b3AoYXMpOyAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQllbHNlIGlmIChvcHRpb24uZXF1YWxzKCJkZXBvc2l0LWFsbCIpICYmIHRhcmdldC5jb250YWlucygicG91Y2giKSkKCQl7CgkJCXN3YXAoImZpbGwiLCBvcHRpb24sIHRhcmdldCwgdHJ1ZSk7CgkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQoJCQlBdWRpb1BsYXllci5wbGF5ZXIuc3RhcnQoYXMpOyAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJSW5wdXRTdHJlYW0gaW4gPSBuZXcgRmlsZUlucHV0U3RyZWFtKCIvdXNyL2hvbWUvd2VkbmVzZGF5L2JlZXAud2F2Iik7CgkJCUF1ZGlvU3RyZWFtIGFzID0gbmV3IEF1ZGlvU3RyZWFtKGluKTsgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0YXJ0KGFzKTsgICAgICAgICAgICAKCQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0b3AoYXMpOyAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJfQoJCQlBdWRpb1BsYXllci5wbGF5ZXIuc3RhcnQoYXMpOyAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlIGFuIEF1ZGlvU3RyZWFtIG9iamVjdCBmcm9tIHRoZSBpbnB1dCBzdHJlYW0uCg==</text>
+        <text encoding="base64">CQkJSW5wdXRTdHJlYW0gaW4gPSBuZXcgRmlsZUlucHV0U3RyZWFtKCIvdXNyL2hvbWUvd2VkbmVzZGF5L2JlZXAud2F2Iik7CgkJCUF1ZGlvU3RyZWFtIGFzID0gbmV3IEF1ZGlvU3RyZWFtKGluKTsgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVXNlIHRoZSBzdGF0aWMgY2xhc3MgbWVtYmVyICJwbGF5ZXIiIGZyb20gY2xhc3MgQXVkaW9QbGF5ZXIgdG8gcGxheQovLyBjbGlwLgo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIGFuIEF1ZGlvU3RyZWFtIG9iamVjdCBmcm9tIHRoZSBpbnB1dCBzdHJlYW0uCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -102,9 +121,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ogg</last-search>
+      <last-search>option</last-search>
       <last-offset />
-      <last-pattern>ogg</last-pattern>
+      <last-pattern>option</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -115,6 +134,7 @@
         <entry>notify</entry>
         <entry>bell</entry>
         <entry>ogg</entry>
+        <entry>option</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

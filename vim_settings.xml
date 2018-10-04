@@ -21,12 +21,11 @@
       <file name="/a.dummy" timestamp="1536764731948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" timestamp="1536346013081">
-        <mark key="'" line="221" column="4" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="220" column="8" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" timestamp="1538674479773">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="326" column="36" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoConfig.java" timestamp="1536342192142">
         <mark key="[" line="37" column="23" />
@@ -78,52 +77,79 @@
       <jump line="333" column="15" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
       <jump line="336" column="12" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
       <jump line="340" column="35" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/menuentryswapper/MenuEntrySwapperPlugin.java" />
+      <jump line="133" column="8" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="290" column="26" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="291" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="292" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="293" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="294" column="26" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="302" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="303" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="310" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="311" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="318" column="35" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="319" column="35" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="326" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="343" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="344" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="345" column="26" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="352" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="358" column="34" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="364" column="35" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="288" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="289" column="25" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="295" column="9" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="304" column="27" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="312" column="26" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="320" column="26" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="327" column="36" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
+      <jump line="48" column="24" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5ydW5lbGl0ZS5hcGkuVmFyYml0czsK</text>
       </register>
       <register name="-" type="4">
         <text>Filename</text>
       </register>
       <register name="/" type="4">
-        <text>option</text>
+        <text>Varbits</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG5ldC5ydW5lbGl0ZS5hcGkuVmFyYml0czsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CQllbHNlIGlmIChvcHRpb24uZXF1YWxzKCJkZXBvc2l0LWFsbCIpICYmIHRhcmdldC5jb250YWlucygicG91Y2giKSkKCQl7CgkJCXN3YXAoImZpbGwiLCBvcHRpb24sIHRhcmdldCwgdHJ1ZSk7CgkJfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0YXJ0KGFzKTsgICAgICAgICAgICAKCQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0b3AoYXMpOyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQoJCQlBdWRpb1BsYXllci5wbGF5ZXIuc3RhcnQoYXMpOyAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0YXJ0KGFzKTsgICAgICAgICAgICAKCQkJQXVkaW9QbGF5ZXIucGxheWVyLnN0b3AoYXMpOyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJSW5wdXRTdHJlYW0gaW4gPSBuZXcgRmlsZUlucHV0U3RyZWFtKCIvdXNyL2hvbWUvd2VkbmVzZGF5L2JlZXAud2F2Iik7CgkJCUF1ZGlvU3RyZWFtIGFzID0gbmV3IEF1ZGlvU3RyZWFtKGluKTsgICAgICAgICAK</text>
+        <text encoding="base64">CQkJfQoJCQlBdWRpb1BsYXllci5wbGF5ZXIuc3RhcnQoYXMpOyAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJSW5wdXRTdHJlYW0gaW4gPSBuZXcgRmlsZUlucHV0U3RyZWFtKCIvdXNyL2hvbWUvd2VkbmVzZGF5L2JlZXAud2F2Iik7CgkJCUF1ZGlvU3RyZWFtIGFzID0gbmV3IEF1ZGlvU3RyZWFtKGluKTsgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlIGFuIEF1ZGlvU3RyZWFtIG9iamVjdCBmcm9tIHRoZSBpbnB1dCBzdHJlYW0uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIGFuIEF1ZGlvU3RyZWFtIG9iamVjdCBmcm9tIHRoZSBpbnB1dCBzdHJlYW0uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>option</last-search>
+      <last-search>Varbits</last-search>
       <last-offset />
-      <last-pattern>option</last-pattern>
+      <last-pattern>Varbits</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -135,6 +161,8 @@
         <entry>bell</entry>
         <entry>ogg</entry>
         <entry>option</entry>
+        <entry>POUCH</entry>
+        <entry>Varbits</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>

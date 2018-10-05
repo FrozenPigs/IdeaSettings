@@ -9,8 +9,10 @@
         <mark key="]" line="492" column="0" />
         <mark key="." line="492" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538673896207">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1538724118661">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/timetracking/farming/FarmingWorld.java" timestamp="1536325254862">
         <mark key="[" line="25" column="21" />
@@ -106,11 +108,11 @@
       <jump line="48" column="24" filename="$USER_HOME$/IdeaProjects/runelite/runelite-client/src/main/java/net/runelite/client/plugins/runecrafttwo/RunecraftTwoPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5ydW5lbGl0ZS5hcGkuVmFyYml0czsK</text>
+      <register name="&quot;" type="4">
+        <text>decapitated</text>
       </register>
       <register name="-" type="4">
-        <text>Filename</text>
+        <text>decapitated</text>
       </register>
       <register name="/" type="4">
         <text>Varbits</text>
